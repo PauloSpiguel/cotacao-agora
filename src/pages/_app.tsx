@@ -11,7 +11,7 @@ function App({ Component, pageProps }: AppProps) {
         <link rel="shortcut icon" href="/img/favicon.png" />
         <link rel="apple-touch-icon" href="/img/favicon.png" />
         <link rel="manifest" href="/manifest.json" />
-        <meta name="theme-colo" content="#06092b" />
+        <meta name="theme-color" content="#06092b" />
         <meta
           name="description"
           content="A simples project started to work with Typescript, React, NextJS and Styled Components"
