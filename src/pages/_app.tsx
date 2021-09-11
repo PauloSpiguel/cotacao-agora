@@ -2,6 +2,7 @@ import type { AppProps } from "next/app";
 import Head from "next/head";
 
 import GlobalStyle from "~/styles/global";
+import "~/styles/tailwind.css";
 
 function App({ Component, pageProps }: AppProps) {
   return (

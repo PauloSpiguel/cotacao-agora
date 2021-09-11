@@ -1,0 +1,5 @@
+[
+  {"label": "EURO", "value": "EU", "code": "EUR", "symbol": "€", "flag": "europeanunion.png"},
+  {"label": "DOLAR", "value": "US", "code": "USD", "symbol": "$", "flag": "unitedstates.png"},
+  {"label": "REAL", "value": "BR", "code": "BRL", "symbol": "R$", "flag": "brazil.png"}
+]
